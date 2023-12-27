@@ -1,3 +1,16 @@
+Readme.md redesign words langkah menjalankan project
+
+- clone repo nya dengan cara : git clone https://github.com/valentputraa/redesign-qwords.git
+- masuk ke foldernya
+- lalu, composer install
+- duplikat .env.example dan rubah menjadi .env
+- jalankan php artisan key:generate
+- jalankan php artisan serve dan buka servernya
+- 
+projek berhasil dibuka
+
+TECHSTACK : PHP LARAVEL 10 , BOOTSTRAP 5 & BOOTSTRAP ICONS
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
