@@ -6,8 +6,8 @@ Readme.md redesign words langkah menjalankan project
 - duplikat .env.example dan rubah menjadi .env
 - jalankan php artisan key:generate
 - jalankan php artisan serve dan buka servernya
-- 
-projek berhasil dibuka
+
+Projek berhasil dibuka
 
 TECHSTACK : PHP LARAVEL 10 , BOOTSTRAP 5 & BOOTSTRAP ICONS
 
