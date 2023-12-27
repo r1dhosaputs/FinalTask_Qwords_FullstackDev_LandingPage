@@ -1,6 +1,6 @@
-Readme.md redesign words langkah menjalankan project
+Readme.md redesign landingpage Qwords langkah menjalankan project :
 
-- clone repo nya dengan cara : git clone https://github.com/valentputraa/redesign-qwords.git
+- clone repo nya dengan cara : git clone https://github.com/valentputraa/redesign-qwords.git](https://github.com/r1dhosaputs/FinalTask_Qwords_FullstackDev_LandingPage.git atau bisa dengan download dengan zip
 - masuk ke foldernya
 - lalu, composer install
 - duplikat .env.example dan rubah menjadi .env
